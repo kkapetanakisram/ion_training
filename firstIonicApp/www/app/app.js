@@ -100,7 +100,21 @@ angular.module("eliteApp", ["ionic"])
           templateUrl: "app/rules/rules.html",
         }
       }
-    });
+    })
+      .state('test', {
+        abstract: true,
+        url: "/test",
+        templateUrl: "app/layout/menu-layout.html"
+      })
+
+      .state('test.kostas',{
+        url:"/test",
+        views:{
+          'mainContent':{
+            templateUrl:"app/rules/rules.html"
+          }
+        }
+      });
 
     // if none of the above states are matched, use this as the fallback
   $urlRouterProvider.otherwise('/home/leagues');
