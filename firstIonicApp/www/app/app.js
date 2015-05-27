@@ -1,4 +1,4 @@
-angular.module("eliteApp", ["ionic"])
+angular.module("eliteApp", ["ionic", 'chart.js'])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
@@ -12,8 +12,10 @@ angular.module("eliteApp", ["ionic"])
       StatusBar.styleDefault();
     }
   });
-})
-
+}).controller("DoughnutCtrl", function ($scope) {
+        $scope.labels = ["Download Sales", "In-Store Sales", "Mail-Order Sales"];
+        $scope.data = [300, 500, 100];
+    })
 .config(function($stateProvider, $urlRouterProvider) {
 
   $stateProvider
@@ -119,3 +121,4 @@ angular.module("eliteApp", ["ionic"])
     // if none of the above states are matched, use this as the fallback
   $urlRouterProvider.otherwise('/home/leagues');
 });
+
