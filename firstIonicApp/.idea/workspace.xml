@@ -1,103 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="710e9df6-77b4-4816-826b-3b5841a46a63" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/firstIonicApp_node_modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/dd68515adeaa44e05112b62d526708a3074adce2/_ionicons-animation.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/dd68515adeaa44e05112b62d526708a3074adce2/_ionicons-font.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/dd68515adeaa44e05112b62d526708a3074adce2/_ionicons-icons.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/dd68515adeaa44e05112b62d526708a3074adce2/_ionicons-variables.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/dd68515adeaa44e05112b62d526708a3074adce2/ionicons.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_action-sheet.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_animations.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_backdrop.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_badge.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_bar.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_button-bar.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_button.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_checkbox.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_form.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_grid.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_items.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_list.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_loading.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_menu.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_mixins.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_modal.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_platform.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_popup.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_progress.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_radio.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_range.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_reset.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_scaffolding.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_select.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_slide-box.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_split-pane.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_tabs.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_toggle.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_type.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_util.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/_variables.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/app.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/.sass-cache/fff4c64413b691b7e1efc4760af7d9aabb273047/ionic.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/css/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/css/app.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/app.scss" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.eot" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.ttf" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.woff" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/.bower.json" afterPath="$PROJECT_DIR$/www/lib/ionic/.bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/README.md" afterPath="$PROJECT_DIR$/www/lib/ionic/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_action-sheet.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_action-sheet.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_animations.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_animations.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_backdrop.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_backdrop.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_bar.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_bar.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_button-bar.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_button-bar.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_button.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_button.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_checkbox.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_checkbox.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_form.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_form.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_grid.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_grid.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-animation.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-animation.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-font.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-font.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-icons.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-variables.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_items.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_items.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_list.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_list.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_loading.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_loading.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_menu.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_menu.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_mixins.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_modal.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_modal.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_platform.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_platform.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_popup.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_popup.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_range.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_range.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_reset.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_reset.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_scaffolding.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_scaffolding.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_select.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_select.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_tabs.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_tabs.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_toggle.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_toggle.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_util.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_util.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/_variables.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/app.js" afterPath="$PROJECT_DIR$/www/app/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/bower.json" afterPath="$PROJECT_DIR$/www/lib/ionic/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/firstIonicApp.iml" afterPath="$PROJECT_DIR$/.idea/firstIonicApp.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/js/ionic-angular.js" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic-angular.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/js/ionic-angular.min.js" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic-angular.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/js/ionic.bundle.js" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic.bundle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/js/ionic.bundle.min.js" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic.bundle.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/css/ionic.css" afterPath="$PROJECT_DIR$/www/lib/ionic/css/ionic.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/js/ionic.js" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/css/ionic.min.css" afterPath="$PROJECT_DIR$/www/lib/ionic/css/ionic.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/js/ionic.min.js" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/ionic.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionic.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/ionicons.scss" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/ionicons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.svg" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/home/myteams.html" afterPath="$PROJECT_DIR$/www/app/home/myteams.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="710e9df6-77b4-4816-826b-3b5841a46a63" name="Default" comment="" />
     <ignored path="firstIonicApp.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -170,7 +74,7 @@
       <file leaf-file-name="myteams.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/app/home/myteams.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.048543688">
+            <state vertical-scroll-proportion="0.048701297">
               <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
               <folding />
             </state>
@@ -458,12 +362,20 @@
       <option name="number" value="Default" />
       <updated>1430838756174</updated>
     </task>
+    <task id="LOCAL-00001" summary="added chart">
+      <created>1432746458380</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1432746458380</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="716" y="23" width="1174" height="1128" extended-state="0" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -473,7 +385,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32851636" sideWeight="0.5060449" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3291506" sideWeight="0.5060449" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -494,6 +406,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added chart" />
+    <option name="LAST_COMMIT_MESSAGE" value="added chart" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -782,7 +698,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/app/home/myteams.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.048543688">
+        <state vertical-scroll-proportion="0.048701297">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           <folding />
         </state>

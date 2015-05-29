@@ -12,9 +12,27 @@ angular.module("eliteApp", ["ionic", 'chart.js'])
       StatusBar.styleDefault();
     }
   });
-}).controller("DoughnutCtrl", function ($scope) {
-        $scope.labels = ["Download Sales", "In-Store Sales", "Mail-Order Sales"];
+}).controller("DoughnutCtrl", function ($scope,$ionicLoading) {
+        $scope.labels = ["demo chart data", "In-Store Sales", "Mail-Order Sales"];
         $scope.data = [300, 500, 100];
+        $scope.legend;
+        $scope.onClick = function (evt) {
+            console.log(evt[0].label);
+
+          $ionicLoading.show({ template: evt[0].label, noBackdrop: true, duration: 2000 });
+        };
+      var functionToBeCalled= function(evt){
+        console.log(evt);
+        console.log(evt.srcElement.innerText);
+        $ionicLoading.show({ template: evt.srcElement.innerText, noBackdrop: true, duration: 2000 });
+      };
+      ionic.DomUtil.ready(function(){
+        var legendElement=document.querySelector('.doughnut-legend');
+        angular.element(legendElement).on('click', functionToBeCalled);
+        console.log(legendElement);
+
+      });
+
     })
 .config(function($stateProvider, $urlRouterProvider) {
 
@@ -39,6 +57,7 @@ angular.module("eliteApp", ["ionic", 'chart.js'])
       url: "/myteams",
       views: {
         "tab-myteams": {
+          controller:"DoughnutCtrl",
           templateUrl: "app/home/myteams.html"
         }
       }
